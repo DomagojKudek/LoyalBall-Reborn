@@ -1,4 +1,4 @@
-# LoyalBall-Reborn
+# LoyalBall-Reborn - Project from May 2020
 3D platformer game made in Unity
 
 # Description:
